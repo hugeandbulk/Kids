@@ -25,5 +25,6 @@ Kids, Inc.
   - if re registration (process), **out**: hook // say [o]
   - if warning, brup / broop
   - if offensive (what), o) massage - oh
+  - if rigid, yes (process) 
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
