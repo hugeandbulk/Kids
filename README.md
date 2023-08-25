@@ -5,4 +5,6 @@ Kids, Inc.
 - cartoons 
 - illi, मछली
 - lion, बोलती बंद
-- tones
+- tones, for bot
+  - delete, droop droop
+  - message, cuckoo cuckoo
