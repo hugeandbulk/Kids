@@ -8,3 +8,4 @@ Kids, Inc.
 - tones, for bot
   - delete, droop droop
   - message, cuckoo cuckoo
+  - very big, yawza
