@@ -9,4 +9,4 @@ Kids, Inc.
   - welcome, yaa ahoo
   - delete, droop droop
   - message, cuckoo cuckoo
-  - very big, yawza
+  - very big, yowza
