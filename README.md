@@ -18,6 +18,7 @@ Kids, Inc.
   - if whishp, whishp (mid batting)
   - no / lost connection, dhur dhur
   - repeat, (memory), उन [un] h — unh
-  - if alone, (bye) 
+  - if alone, (bye)
+  - if complaint, whooh hoo
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
