@@ -16,6 +16,7 @@ Kids, Inc.
   - got friend, yeep
   - if lie, yeep
   - if whishp, whishp (mid batting)
-  - no / lost connection, dhur dhur 
+  - no / lost connection, dhur dhur
+  - repeat, (memory), उन [un] h — unh
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
