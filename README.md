@@ -21,5 +21,6 @@ Kids, Inc.
   - if alone, (bye)
   - if complaint, whooh hoo
   - if objection, whooh o
+  - if out (process), **out**
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
