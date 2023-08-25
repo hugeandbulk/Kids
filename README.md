@@ -23,6 +23,7 @@ Kids, Inc.
   - if objection, whooh o
   - if out (process), **out**
   - if re registration (process), **out**: hook // say [o]
-  - if warning, brup / broop 
+  - if warning, brup / broop
+  - if offensive (what), o) massage - oh
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
