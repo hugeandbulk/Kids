@@ -13,6 +13,7 @@ Kids, Inc.
   - whistle, aa u; u u
   - interval, a e uu
   - not found, yeapp noop
-  - got friend, yeep 
+  - got friend, yeep
+  - if lie, yeep 
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
