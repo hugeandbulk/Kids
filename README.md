@@ -15,6 +15,7 @@ Kids, Inc.
   - not found, yeapp noop
   - got friend, yeep
   - if lie, yeep
-  - if whishp, whishp (mid batting) 
+  - if whishp, whishp (mid batting)
+  - no / lost connection, dhur dhur 
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
