@@ -11,3 +11,4 @@ Kids, Inc.
   - message, cuckoo cuckoo
   - very big, yowza
   - whistle, aa u; u u
+  - interval, a e uu
