@@ -14,6 +14,7 @@ Kids, Inc.
   - interval, a e uu
   - not found, yeapp noop
   - got friend, yeep
-  - if lie, yeep 
+  - if lie, yeep
+  - if whishp, whishp (mid batting) 
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
