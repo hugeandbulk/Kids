@@ -22,6 +22,7 @@ Kids, Inc.
   - if complaint, whooh hoo
   - if objection, whooh o
   - if out (process), **out**
-  - if re registration (process), **out**: hook // say [o] 
+  - if re registration (process), **out**: hook // say [o]
+  - if warning, brup / broop 
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
