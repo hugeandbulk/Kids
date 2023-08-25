@@ -10,3 +10,4 @@ Kids, Inc.
   - delete, droop droop
   - message, cuckoo cuckoo
   - very big, yowza
+  - whistle, aa u; u u
