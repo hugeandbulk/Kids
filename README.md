@@ -20,5 +20,6 @@ Kids, Inc.
   - repeat, (memory), उन [un] h — unh
   - if alone, (bye)
   - if complaint, whooh hoo
+  - if objection, whooh o
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
