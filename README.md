@@ -5,6 +5,9 @@ Kids, Inc.
 - cartoons 
 - illi, मछली
 - lion, बोलती बंद, ohú
+- Englisho
+- gossipo
+- talko
 - tones, for bot
   - welcome, yaa ahoo
   - delete, droop droop
