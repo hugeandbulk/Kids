@@ -33,3 +33,5 @@ Kids, Inc.
   - disappear, u (vibration)
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
+
+https://ai.google/
