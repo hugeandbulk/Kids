@@ -27,6 +27,7 @@ Kids, Inc.
   - if offensive (what), o) massage - oh
   - if rigid, yes (process)
   - if thinking, hmm! (vibration)
-  - if sit, sit (vibration) 
+  - if sit, sit (vibration)
+  - laugh, ue ué 
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
