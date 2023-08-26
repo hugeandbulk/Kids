@@ -4,7 +4,7 @@ Kids, Inc.
 **Products:**
 - cartoons 
 - illi, मछली
-- lion, बोलती बंद
+- lion, बोलती बंद, ohú
 - tones, for bot
   - welcome, yaa ahoo
   - delete, droop droop
