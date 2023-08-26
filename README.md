@@ -29,7 +29,7 @@ Kids, Inc.
   - if thinking, hmm! (vibration)
   - if sit, sit (vibration)
   - laugh, ue ué
-  - sad,
-  - disappear, 
+  - sad, meow 
+  - disappear, u (vibration)
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
