@@ -28,6 +28,8 @@ Kids, Inc.
   - if rigid, yes (process)
   - if thinking, hmm! (vibration)
   - if sit, sit (vibration)
-  - laugh, ue ué 
+  - laugh, ue ué
+  - sad,
+  - disappear, 
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
