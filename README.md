@@ -26,6 +26,7 @@ Kids, Inc.
   - if warning, brup / broop
   - if offensive (what), o) massage - oh
   - if rigid, yes (process)
-  - if thinking, hmm! 
+  - if thinking, hmm! (vibration)
+  - if sit, sit (vibration) 
 
 https://www.musicnotes.com/blog/how-to-read-sheet-music/
